@@ -6,3 +6,6 @@
 - session4. 공유 자전거 수요 예측 EDA - 케글<br> 
 - session5. 포켓몬 이미지분류 - 코랩<br> 
 - session6. 포켓몬 이미지분류2<br>
+
+### 1st project - 자전거 수요 예측 
+2021.10 ~ ing 
